@@ -1,4 +1,4 @@
-# 봇정식 버전 출시
+# 봇베버전 출시
 https://github.com/INMD1/javabot-KR-Beta/releases <br>
 여러분들이 사용후 고쳐야 할점 버그 기타등등 있으면 이슈로 알려주세요!
 
@@ -16,8 +16,8 @@ https://github.com/INMD1/javabot-KR-Beta/releases <br>
 이봇을 기반으로 제작된 봇입니다.<br>
 원본 제작자의 프로젝트도 한번이용해 주세요 !<br>
 
-# javabot-KR
-위에 있는 봇을 한글화해서 기능 수정및 기능을 추가한 봇입니다.
+# javabot-BETA
+까끔 실험적인 기능을 올리는 곳입니다.
 이봇은 원본 라이센스를 적용받습니다<br>
 [![Release](https://img.shields.io/github/release/INMD1/javabot-KR-)](https://github.com/INMD1/javabot-KR-/releases)
 [![License](https://img.shields.io/github/license/INMD1/javabot-KR-)](https://github.com/INMD1/javabot-KR-/blob/master/LICENSE)
