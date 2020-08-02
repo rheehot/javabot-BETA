@@ -1,4 +1,4 @@
-# 봇베전 출시
+# 봇정식 버전 출시
 https://github.com/INMD1/javabot-KR-Beta/releases <br>
 여러분들이 사용후 고쳐야 할점 버그 기타등등 있으면 이슈로 알려주세요!
 
@@ -16,8 +16,8 @@ https://github.com/INMD1/javabot-KR-Beta/releases <br>
 이봇을 기반으로 제작된 봇입니다.<br>
 원본 제작자의 프로젝트도 한번이용해 주세요 !<br>
 
-# javabot-BETA
-까끔 실험적인 기능을 올리는 곳입니다.
+# javabot-KR
+위에 있는 봇을 한글화해서 기능 수정및 기능을 추가한 봇입니다.
 이봇은 원본 라이센스를 적용받습니다<br>
 [![Release](https://img.shields.io/github/release/INMD1/javabot-KR-)](https://github.com/INMD1/javabot-KR-/releases)
 [![License](https://img.shields.io/github/license/INMD1/javabot-KR-)](https://github.com/INMD1/javabot-KR-/blob/master/LICENSE)
@@ -42,10 +42,12 @@ https://github.com/INMD1/javabot-KR-Beta/releases <br>
 
 
 ## 설치방법
-아쉽게도 이 베타는 따로 빌드를 하지 않습니다.
-따로 빌드를 해줘야 합니다.
+설치 패이지 가서 안내를 받고 하세요1
 
-하는 방법은 곧 업로드 될 예정입니다.
+## 업데이트
+업데이트는 두가지로 분류가 됨니다.<br>
+정기업데이트:원작자가 올리는 업데이트를 가지고 업데이트 합니다.<br>
+수동업데이트:제가 직접수정해서 업데이트를 합니다.<br><br>
 
 ## 질문 / 제안 / 버그 보고서
 저는 주료 이슈나 이메일로 받습니다. 
@@ -55,4 +57,3 @@ https://github.com/INMD1/javabot-KR-Beta/releases <br>
 이를 편집하고 컴파일하는 데 필요한 많은 요구 사항과 종속성이 있으며, 스스로 변경하려는 사용자에게는 지원이 제공되지 않습니다. <br> 
 대신 기능 요청을 고려하십시오 (위 섹션 참조). 편집을 선택하면 Apache 2.0 라이선스에 따라 편집하십시오.
 
-# javabot-BETA
